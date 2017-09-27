@@ -865,6 +865,13 @@
     .redux-container #redux-footer #redux-share {
         line-height: 34px;
     }
+    .redux-container .redux-main {
+        margin-left: 0;
+    }
+    .redux-sidebar {
+        width: 0;
+        display: none;
+    }
 
 }
 
